@@ -1,0 +1,16 @@
+{
+  "_about": "Every week of BiteFlow. The app shows the newest week whose 'live' time has passed (07:00 Monday, Malta time).",
+  "timezone": "Europe/Malta",
+  "weeks": [
+    {
+      "week": "2026-11-09",
+      "live": "2026-11-09T07:00:00+01:00",
+      "title": "Starter menu"
+    },
+    {
+      "week": "2026-11-16",
+      "live": "2026-11-16T07:00:00+01:00",
+      "title": "Around the world in 24 plates"
+    }
+  ]
+}

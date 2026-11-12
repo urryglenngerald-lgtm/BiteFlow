@@ -1,0 +1,371 @@
+{
+  "week": "2026-11-09",
+  "title": "Starter menu",
+  "live": "2026-11-09T07:00:00+01:00",
+  "recipes": [
+    {
+      "id": "blueberry-oats",
+      "name": "Overnight Blueberry Oats",
+      "cuisine": "British",
+      "meal": "Breakfast",
+      "time": 5,
+      "timeNote": "plus a night in the fridge",
+      "serves": 1,
+      "veg": true,
+      "desc": "Make it at 10pm, grab it at 7am. Creamy, cold and properly filling.",
+      "colors": ["#4F5BD5", "#B3A3F0"],
+      "ing": [
+        ["oats", 50],
+        ["yogurt", 100],
+        ["milk", 120],
+        ["chia", 10],
+        ["blueberries", 80],
+        ["honey", 7, "Honey (1 tsp)"]
+      ],
+      "steps": [
+        "In a jar, stir the oats, chia seeds, yogurt and milk until no dry oats are left.",
+        "Fold in half the blueberries, then top with the rest and the honey.",
+        "Seal and refrigerate for at least 6 hours. Eat cold, or loosen with a splash of milk."
+      ],
+      "tip": "Make three jars on Sunday; they keep for 3 days."
+    },
+    {
+      "id": "greek-chickpea",
+      "name": "Greek Chickpea Salad",
+      "cuisine": "Greek",
+      "meal": "Lunch",
+      "time": 10,
+      "serves": 2,
+      "veg": true,
+      "desc": "No cooking at all. Crunchy, salty, lemony and it travels well.",
+      "colors": ["#2E7D52", "#C4D46A"],
+      "ing": [
+        ["chickpeas", 240, "Chickpeas (1 can, drained)"],
+        ["cucumber", 150],
+        ["tomatoes", 200],
+        ["onion", 40],
+        ["feta", 80],
+        ["oil", 15, "Olive oil (1 tbsp)"],
+        ["lemon", 20, "Lemon juice (½ lemon)"],
+        ["spice", 0, "Dried oregano, salt, pepper"]
+      ],
+      "steps": [
+        "Dice the cucumber, halve the tomatoes and slice the onion thinly.",
+        "Toss everything except the feta with the oil, lemon juice, oregano, salt and pepper.",
+        "Crumble the feta over the top."
+      ],
+      "tip": "Packing it for tomorrow? Keep the feta separate until you eat."
+    },
+    {
+      "id": "salmon-traybake",
+      "name": "Sheet-Pan Salmon & Sweet Potato",
+      "cuisine": "Modern",
+      "meal": "Dinner",
+      "time": 30,
+      "serves": 2,
+      "desc": "One tray, one wash-up. Omega-3s, fibre and almost no effort.",
+      "colors": ["#D9673E", "#F2B27A"],
+      "ing": [
+        ["salmon", 260, "Salmon (2 fillets)"],
+        ["sweetpotato", 400, "Sweet potato (2 medium)"],
+        ["broccoli", 300, "Broccoli (1 head)"],
+        ["oil", 15, "Olive oil (1 tbsp)"],
+        ["garlic", 6, "Garlic (2 cloves)"],
+        ["lemon", 15],
+        ["spice", 0, "Smoked paprika, salt, pepper"]
+      ],
+      "steps": [
+        "Heat the oven to 220°C. Cube the sweet potato, toss with half the oil, paprika and salt, and roast for 12 minutes.",
+        "Toss the broccoli with the rest of the oil and the sliced garlic. Push the potatoes to the sides, add the broccoli, and lay the salmon in the middle. Season.",
+        "Roast 12 to 14 minutes until the salmon flakes. Squeeze lemon over everything."
+      ]
+    },
+    {
+      "id": "tuna-wrap",
+      "name": "Tuna Avocado Wrap",
+      "cuisine": "Modern",
+      "meal": "Lunch",
+      "time": 8,
+      "serves": 1,
+      "desc": "Desk-lunch rescue. Nearly 40 g of protein from the cupboard.",
+      "colors": ["#2F6F63", "#9ED0B3"],
+      "ing": [
+        ["tortilla", 60, "Wholewheat tortilla (1 large)"],
+        ["tuna", 110, "Tuna in water (1 can, drained)"],
+        ["avocado", 50, "Avocado (⅓)"],
+        ["yogurt", 30, "Greek yogurt (2 tbsp)"],
+        ["spinach", 30],
+        ["lemon", 5, "Squeeze of lemon"],
+        ["spice", 0, "Black pepper, chilli flakes"]
+      ],
+      "steps": [
+        "Mash the avocado with the yogurt, lemon and pepper.",
+        "Fold in the tuna.",
+        "Lay spinach on the tortilla, add the tuna mix, roll tightly and cut in half."
+      ]
+    },
+    {
+      "id": "red-lentil-dal",
+      "name": "Weeknight Red Lentil Dal",
+      "cuisine": "Indian",
+      "meal": "Dinner",
+      "time": 25,
+      "serves": 3,
+      "veg": true,
+      "vegan": true,
+      "desc": "Cheap, cosy and freezes like a dream. Plant protein with serious fibre.",
+      "colors": ["#D07A22", "#F0C655"],
+      "ing": [
+        ["lentils", 200],
+        ["cantom", 400, "Chopped tomatoes (1 can)"],
+        ["coconut", 200, "Light coconut milk (½ can)"],
+        ["onion", 100, "Onion (1)"],
+        ["garlic", 10, "Garlic (3 cloves)"],
+        ["ginger", 10, "Ginger (thumb-size)"],
+        ["oil", 10],
+        ["spinach", 100],
+        ["spice", 0, "2 tsp curry powder, 1 tsp cumin, salt"]
+      ],
+      "steps": [
+        "Soften the chopped onion in the oil for 4 minutes. Add garlic, ginger and spices and stir for 1 minute.",
+        "Add the rinsed lentils, tomatoes, coconut milk and 400 ml water. Simmer 18 minutes, stirring now and then, until thick.",
+        "Stir in the spinach until wilted. Season and serve."
+      ],
+      "tip": "Freeze portions flat in bags. They reheat in 5 minutes."
+    },
+    {
+      "id": "shrimp-zoodles",
+      "name": "Garlic Prawn Zoodles",
+      "cuisine": "Italian",
+      "meal": "Dinner",
+      "time": 15,
+      "serves": 2,
+      "desc": "Pasta energy without the pasta. Light, garlicky and very high protein.",
+      "colors": ["#D9506A", "#F4AFA4"],
+      "ing": [
+        ["shrimp", 300],
+        ["zucchini", 500, "Courgettes (2 large, spiralised)"],
+        ["garlic", 10, "Garlic (3 cloves)"],
+        ["oil", 15],
+        ["tomatoes", 150],
+        ["parmesan", 20],
+        ["spice", 0, "Chilli flakes, salt, pepper"]
+      ],
+      "steps": [
+        "Heat the oil over medium-high. Add garlic and chilli for 30 seconds, then the prawns, 2 minutes per side until pink. Lift them out.",
+        "Add the tomatoes and cook 2 minutes until they burst. Add the courgette and toss for 2 minutes only.",
+        "Return the prawns, season and finish with parmesan."
+      ],
+      "tip": "Don't salt the courgette until the end, or it goes watery."
+    },
+    {
+      "id": "tofu-bowl",
+      "name": "Sticky Tofu Edamame Bowl",
+      "cuisine": "Japanese",
+      "meal": "Dinner",
+      "time": 25,
+      "serves": 2,
+      "veg": true,
+      "desc": "Crispy, salty-sweet tofu over brown rice. A takeaway you can feel good about.",
+      "colors": ["#6E52BD", "#DDB4E6"],
+      "ing": [
+        ["tofu", 300, "Firm tofu (1 block, pressed)"],
+        ["rice", 120],
+        ["edamame", 150],
+        ["carrot", 100],
+        ["soy", 30, "Soy sauce (2 tbsp)"],
+        ["oil", 10],
+        ["honey", 10],
+        ["scallion", 20]
+      ],
+      "steps": [
+        "Cook the rice according to the pack.",
+        "Cube the tofu and pan-fry in the oil for 8 to 10 minutes until golden on all sides.",
+        "Mix the soy sauce and honey, pour over the tofu and let it bubble for 1 minute to glaze.",
+        "Boil the edamame for 3 minutes. Build bowls with rice, tofu, edamame, grated carrot and spring onion."
+      ],
+      "tip": "Microwave rice pouches cut this to 15 minutes."
+    },
+    {
+      "id": "burrito-bowl",
+      "name": "Chicken Burrito Bowls",
+      "cuisine": "Mexican",
+      "meal": "Lunch",
+      "time": 30,
+      "serves": 4,
+      "prep": true,
+      "desc": "Four lunches in thirty minutes. The meal-prep classic for a reason.",
+      "colors": ["#B0303F", "#EE9F4A"],
+      "ing": [
+        ["chicken", 600],
+        ["rice", 200],
+        ["blackbeans", 480, "Black beans (2 cans, drained)"],
+        ["corn", 300],
+        ["pepper", 300, "Red peppers (2)"],
+        ["onion", 100],
+        ["oil", 15],
+        ["lime", 30, "Lime juice (1 lime)"],
+        ["avocado", 200, "Avocado (1 large)"],
+        ["spice", 0, "Cumin, smoked paprika, salt"]
+      ],
+      "steps": [
+        "Cook the rice.",
+        "Slice the chicken, toss with spices, salt and half the oil, and pan-fry 6 to 7 minutes until cooked through.",
+        "In the same pan, cook the sliced peppers and onion in the rest of the oil for 5 minutes. Warm the beans and corn.",
+        "Divide everything between 4 boxes and squeeze lime over. Add avocado on the day you eat it."
+      ]
+    },
+    {
+      "id": "cottage-apple",
+      "name": "Cottage Cheese Apple Crunch",
+      "cuisine": "American",
+      "meal": "Breakfast",
+      "time": 5,
+      "serves": 1,
+      "veg": true,
+      "desc": "Tastes like apple pie, eats like a protein shake.",
+      "colors": ["#5F7F35", "#D3DC86"],
+      "ing": [
+        ["cottage", 200],
+        ["apple", 150, "Apple (1)"],
+        ["walnuts", 15],
+        ["honey", 7, "Honey (1 tsp)"],
+        ["spice", 0, "Cinnamon"]
+      ],
+      "steps": [
+        "Dice the apple.",
+        "Spoon the cottage cheese into a bowl, top with apple and roughly broken walnuts.",
+        "Drizzle with honey and dust with cinnamon."
+      ]
+    },
+    {
+      "id": "beef-pasta",
+      "name": "Hidden-Veg Beef Pasta",
+      "cuisine": "Italian",
+      "meal": "Dinner",
+      "time": 25,
+      "serves": 4,
+      "prep": true,
+      "desc": "Family bolognese with extra veg nobody notices. Leftovers are lunch.",
+      "colors": ["#8E2B2B", "#DD7553"],
+      "ing": [
+        ["pasta", 320],
+        ["beef", 500],
+        ["cantom", 800, "Chopped tomatoes (2 cans)"],
+        ["carrot", 150],
+        ["onion", 150],
+        ["garlic", 10],
+        ["oil", 10],
+        ["parmesan", 40],
+        ["spinach", 100],
+        ["spice", 0, "Dried oregano, salt, pepper"]
+      ],
+      "steps": [
+        "Boil the pasta in salted water.",
+        "Meanwhile soften the onion and grated carrot in the oil for 5 minutes. Add the beef and brown for 5 minutes, breaking it up.",
+        "Add garlic, tomatoes and oregano and simmer 10 minutes. Stir in the spinach.",
+        "Toss with the drained pasta and top with parmesan."
+      ]
+    },
+    {
+      "id": "pb-smoothie",
+      "name": "Peanut Banana Smoothie",
+      "cuisine": "American",
+      "meal": "Breakfast",
+      "time": 3,
+      "serves": 1,
+      "veg": true,
+      "desc": "Breakfast you drink on the way out. Thick, nutty and keeps you going.",
+      "colors": ["#A06F33", "#EFD184"],
+      "ing": [
+        ["banana", 120, "Banana (1, frozen is best)"],
+        ["pb", 16, "Peanut butter (1 tbsp)"],
+        ["yogurt", 150],
+        ["milk", 200],
+        ["oats", 20],
+        ["spice", 0, "Handful of ice"]
+      ],
+      "steps": [
+        "Put everything in a blender.",
+        "Blend 45 seconds until smooth. Add more milk if too thick."
+      ]
+    },
+    {
+      "id": "lemon-cod",
+      "name": "Lemon Cod, Peas & Quinoa",
+      "cuisine": "Mediterranean",
+      "meal": "Dinner",
+      "time": 20,
+      "serves": 2,
+      "desc": "Clean, bright and very lean. The one for when you want to feel light.",
+      "colors": ["#326F98", "#A4D2E3"],
+      "ing": [
+        ["cod", 300, "Cod (2 fillets)"],
+        ["quinoa", 120],
+        ["peas", 200],
+        ["oil", 15],
+        ["lemon", 20],
+        ["garlic", 6],
+        ["spinach", 60],
+        ["spice", 0, "Fresh dill or parsley, salt"]
+      ],
+      "steps": [
+        "Rinse the quinoa and simmer in 240 ml water for 15 minutes, adding the peas for the last 3.",
+        "Season the cod and pan-fry in the oil 3 to 4 minutes per side.",
+        "Wilt the spinach and garlic in the pan juices for 1 minute.",
+        "Fluff the quinoa with lemon and herbs, and serve with the cod and greens."
+      ]
+    },
+    {
+      "id": "hummus-toast",
+      "name": "Hummus & Egg Power Toast",
+      "cuisine": "Middle Eastern",
+      "meal": "Breakfast",
+      "time": 10,
+      "serves": 1,
+      "veg": true,
+      "desc": "Jammy eggs on creamy hummus. The weekend brunch you can do on a Tuesday.",
+      "colors": ["#B8901F", "#F0DE96"],
+      "ing": [
+        ["bread", 70, "Wholegrain bread (2 slices)"],
+        ["hummus", 40],
+        ["eggs", 100, "Eggs (2)"],
+        ["tomatoes", 80],
+        ["spice", 0, "Chilli flakes, salt, pepper"]
+      ],
+      "steps": [
+        "Boil the eggs for 6½ minutes, cool in cold water and peel.",
+        "Toast the bread and spread with hummus.",
+        "Top with halved tomatoes, the halved eggs, chilli flakes, salt and pepper."
+      ]
+    },
+    {
+      "id": "tahini-traybake",
+      "name": "Tahini Chickpea Traybake",
+      "cuisine": "Middle Eastern",
+      "meal": "Dinner",
+      "time": 35,
+      "serves": 2,
+      "veg": true,
+      "vegan": true,
+      "desc": "Roasty, nutty, plant-based and mostly hands-off oven time.",
+      "colors": ["#B7521A", "#EBBE85"],
+      "ing": [
+        ["sweetpotato", 400],
+        ["chickpeas", 240, "Chickpeas (1 can, drained)"],
+        ["onion", 100],
+        ["oil", 15],
+        ["tahini", 30, "Tahini (2 tbsp)"],
+        ["lemon", 20],
+        ["spinach", 80],
+        ["spice", 0, "Cumin, salt"]
+      ],
+      "steps": [
+        "Heat the oven to 210°C. Cube the sweet potato, cut the onion into wedges and toss both with the chickpeas, oil, cumin and salt.",
+        "Roast 30 minutes, turning once.",
+        "Whisk the tahini with lemon and 2 to 3 tbsp water until pourable.",
+        "Toss the spinach through the hot tray to wilt and drizzle with the sauce."
+      ]
+    }
+  ]
+}

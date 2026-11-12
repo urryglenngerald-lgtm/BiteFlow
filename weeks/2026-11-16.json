@@ -1,0 +1,752 @@
+{
+  "week": "2026-11-16",
+  "title": "Around the world in 24 plates",
+  "live": "2026-11-16T07:00:00+01:00",
+  "recipes": [
+    {
+      "id": "hobz-biz-zejt",
+      "name": "Ħobż biż-Żejt with Tuna",
+      "cuisine": "Maltese",
+      "meal": "Lunch",
+      "time": 10,
+      "serves": 2,
+      "desc": "Malta's summer lunch: bread soaked in kunserva and oil, piled high. No cooking.",
+      "colors": ["#B8442E", "#E9A65B"],
+      "photo": "two thick slices of crusty Maltese bread spread deep red with tomato paste, topped with flaked tuna, sliced tomato, red onion rings, capers, black olives and torn mint",
+      "ing": [
+        ["sourdough", 160, "Maltese bread (4 thick slices)"],
+        ["tomatopaste", 40, "Kunserva (2 tbsp)"],
+        ["tuna", 110, "Tuna in water (1 can, drained)"],
+        ["tomatoes", 150, "Tomatoes, sliced"],
+        ["onion", 40],
+        ["capers", 10, "Capers (1 tbsp)"],
+        ["olives", 30, "Black olives (about 8)"],
+        ["oil", 10, "Olive oil (2 tsp)"],
+        ["herbs", 5, "Fresh mint"],
+        ["spice", 0, "Salt, black pepper"]
+      ],
+      "steps": [
+        "Spread the kunserva thickly over the bread.",
+        "Drizzle with the olive oil and let it soak in for a minute.",
+        "Top with the tuna, sliced tomatoes, thin onion rings, capers, olives and torn mint. Season with salt and pepper."
+      ],
+      "tip": "Day-old bread is best: it drinks up the oil without going soggy."
+    },
+    {
+      "id": "huevos-rancheros",
+      "name": "Huevos Rancheros",
+      "cuisine": "Mexican",
+      "meal": "Breakfast",
+      "time": 15,
+      "serves": 2,
+      "veg": true,
+      "desc": "Eggs poached in a quick chilli-tomato salsa over warm tortillas and black beans.",
+      "colors": ["#C7442B", "#F2C14E"],
+      "photo": "a cast-iron pan of eggs set in chunky red salsa, beside two corn tortillas topped with black beans, crumbled white cheese, avocado slices, coriander and a lime wedge",
+      "ing": [
+        ["corntortilla", 100, "Corn tortillas (4 small)"],
+        ["eggs", 200, "Eggs (4)"],
+        ["blackbeans", 240, "Black beans (1 can, drained)"],
+        ["cantom", 200, "Chopped tomatoes (½ can)"],
+        ["onion", 60],
+        ["chilli", 10, "Jalapeño (1)"],
+        ["garlic", 6, "Garlic (2 cloves)"],
+        ["oil", 10, "Olive oil (2 tsp)"],
+        ["feta", 40, "Feta or queso fresco"],
+        ["avocado", 70, "Avocado (½)"],
+        ["lime", 10, "Lime (wedges)"],
+        ["herbs", 5, "Coriander"],
+        ["spice", 0, "Ground cumin, salt"]
+      ],
+      "steps": [
+        "Soften the chopped onion, garlic and jalapeño in the oil for 3 minutes. Add the tomatoes and cumin and simmer 4 minutes to a chunky salsa.",
+        "Warm the beans in a small pan and roughly mash half of them.",
+        "Make 4 hollows in the salsa, crack in the eggs, cover and cook 4 to 5 minutes until the whites are set.",
+        "Warm the tortillas in a dry pan. Top with beans, then the eggs and salsa, crumbled cheese, avocado, coriander and lime."
+      ]
+    },
+    {
+      "id": "cilbir",
+      "name": "Çılbır: Turkish Eggs",
+      "cuisine": "Turkish",
+      "meal": "Breakfast",
+      "time": 12,
+      "serves": 2,
+      "veg": true,
+      "desc": "Soft poached eggs on cool garlicky yogurt, drowned in sizzling chilli butter.",
+      "colors": ["#C9572E", "#F3D9A4"],
+      "photo": "a shallow white bowl of thick yogurt swirled across the base, two soft poached eggs in the centre, bright red chilli butter pooling over them, fresh dill on top, toasted bread on the side",
+      "ing": [
+        ["eggs", 200, "Eggs (4)"],
+        ["yogurt", 250],
+        ["garlic", 4, "Garlic (1 small clove)"],
+        ["butter", 20],
+        ["herbs", 5, "Fresh dill"],
+        ["sourdough", 100, "Crusty bread (2 slices)"],
+        ["spice", 0, "Pul biber (Aleppo pepper), paprika, salt"]
+      ],
+      "steps": [
+        "Stir the finely grated garlic and a pinch of salt into the yogurt. Spread it over two plates so it loses its fridge chill.",
+        "Poach the eggs in barely simmering water for 3 minutes.",
+        "Melt the butter until foaming, then stir in the pul biber and paprika.",
+        "Set the eggs on the yogurt, spoon the chilli butter over, scatter with dill and serve with the bread."
+      ],
+      "tip": "Crack each egg into a cup first and slide it into the water for neater poached eggs."
+    },
+    {
+      "id": "bircher-muesli",
+      "name": "Apple Bircher Muesli",
+      "cuisine": "Swiss",
+      "meal": "Breakfast",
+      "time": 5,
+      "timeNote": "plus an overnight soak",
+      "serves": 2,
+      "veg": true,
+      "prep": true,
+      "desc": "The original overnight oats. Creamy, tangy and ready when you wake up.",
+      "colors": ["#7C9A3C", "#E8DCA0"],
+      "photo": "two glass jars of creamy soaked oats with grated apple, topped with fresh blueberries, chopped walnuts and a thin drizzle of honey",
+      "ing": [
+        ["oats", 100],
+        ["milk", 150],
+        ["yogurt", 150],
+        ["apple", 150, "Apple (1, grated)"],
+        ["lemon", 10, "Lemon juice (2 tsp)"],
+        ["walnuts", 20],
+        ["blueberries", 100],
+        ["honey", 10, "Honey (2 tsp)"],
+        ["spice", 0, "Cinnamon"]
+      ],
+      "steps": [
+        "Grate the apple with its skin and toss it in the lemon juice.",
+        "Mix the oats, milk, yogurt, apple and a pinch of cinnamon. Cover and chill overnight.",
+        "In the morning, stir and top with blueberries, chopped walnuts and honey."
+      ],
+      "tip": "Keeps 2 days in the fridge, so make both portions at once."
+    },
+    {
+      "id": "miso-salmon",
+      "name": "Miso-Glazed Salmon & Pak Choi",
+      "cuisine": "Japanese",
+      "meal": "Dinner",
+      "time": 20,
+      "serves": 2,
+      "desc": "Sweet-salty caramelised salmon under the grill in ten minutes.",
+      "colors": ["#C25B2E", "#E9B482"],
+      "photo": "a glossy caramelised miso salmon fillet on a mound of white rice, halved pak choi alongside, sesame seeds and sliced spring onion on top, dark ceramic bowl",
+      "ing": [
+        ["salmon", 260, "Salmon (2 fillets)"],
+        ["miso", 30, "White miso (2 tbsp)"],
+        ["honey", 10],
+        ["soy", 10, "Soy sauce (2 tsp)"],
+        ["ginger", 5],
+        ["whiterice", 140, "Sushi or jasmine rice (dry)"],
+        ["pakchoi", 300, "Pak choi (2 heads)"],
+        ["sesameoil", 5, "Sesame oil (1 tsp)"],
+        ["sesame", 5],
+        ["scallion", 20]
+      ],
+      "steps": [
+        "Cook the rice.",
+        "Heat the grill to high. Mix the miso, honey, soy and grated ginger and brush it over the salmon on a foil-lined tray.",
+        "Grill 8 to 10 minutes until dark and bubbling and the salmon flakes.",
+        "Halve the pak choi and stir-fry in the sesame oil with a splash of water for 3 minutes. Serve with the rice, spring onion and sesame seeds."
+      ],
+      "tip": "The glaze catches quickly. Keep the salmon about 10 cm below the grill."
+    },
+    {
+      "id": "ahi-poke",
+      "name": "Ahi Tuna Poke Bowl",
+      "cuisine": "Hawaiian",
+      "meal": "Lunch",
+      "time": 20,
+      "serves": 2,
+      "desc": "Silky marinated tuna, rice and crunchy veg. Over 40 g of protein.",
+      "colors": ["#B3263E", "#7FC8A9"],
+      "photo": "a wide bowl of rice topped with glossy cubes of deep red tuna, green edamame, cucumber slices, fanned avocado, spring onion and sesame seeds, arranged in neat sections",
+      "ing": [
+        ["tunasteak", 250, "Sushi-grade tuna"],
+        ["whiterice", 140, "Sushi or jasmine rice (dry)"],
+        ["soy", 30, "Soy sauce (2 tbsp)"],
+        ["sesameoil", 8, "Sesame oil (2 tsp)"],
+        ["lime", 10],
+        ["edamame", 100],
+        ["cucumber", 150],
+        ["avocado", 100, "Avocado (1 small)"],
+        ["scallion", 20],
+        ["sesame", 5],
+        ["spice", 0, "Chilli flakes"]
+      ],
+      "steps": [
+        "Cook the rice and let it cool a little.",
+        "Cut the tuna into 2 cm cubes and toss with the soy, sesame oil, lime, chilli and half the spring onion. Chill 10 minutes.",
+        "Boil the edamame for 3 minutes and cool under the tap.",
+        "Build bowls: rice, tuna, edamame, sliced cucumber and avocado. Finish with the rest of the spring onion and sesame seeds."
+      ],
+      "tip": "Buy tuna labelled sushi or sashimi grade and eat it the day you buy it."
+    },
+    {
+      "id": "chicken-larb",
+      "name": "Thai Chicken Larb Cups",
+      "cuisine": "Thai",
+      "meal": "Lunch",
+      "time": 15,
+      "serves": 2,
+      "desc": "Hot, sour, herby mince in crisp lettuce. Big flavour, light on calories.",
+      "colors": ["#5E8C31", "#D9E58C"],
+      "photo": "crisp little gem lettuce cups filled with spiced chicken mince, red chilli, sliced shallot and lots of mint and coriander, lime wedges and cucumber on the board",
+      "ing": [
+        ["chickenmince", 400],
+        ["shallot", 40, "Shallots (2)"],
+        ["lime", 30, "Lime juice (1 lime)"],
+        ["fishsauce", 20, "Fish sauce (1 tbsp)"],
+        ["chilli", 5],
+        ["herbs", 20, "Mint and coriander"],
+        ["whiterice", 10, "Rice (1 tbsp, toasted and crushed)"],
+        ["lettuce", 200, "Little gem (2 heads)"],
+        ["cucumber", 100],
+        ["oil", 5, "Oil (1 tsp)"]
+      ],
+      "steps": [
+        "Toast the rice in a dry pan for 3 to 4 minutes until golden, then crush it.",
+        "Cook the mince in the oil, breaking it up, for 6 to 7 minutes. Add a splash of water so it stays juicy.",
+        "Off the heat, stir in the fish sauce, lime juice, chilli, sliced shallots, herbs and toasted rice.",
+        "Spoon into lettuce leaves and serve with cucumber."
+      ]
+    },
+    {
+      "id": "chana-masala",
+      "name": "Chana Masala",
+      "cuisine": "Indian",
+      "meal": "Dinner",
+      "time": 25,
+      "serves": 3,
+      "veg": true,
+      "vegan": true,
+      "prep": true,
+      "desc": "Punjabi chickpea curry: tangy, warming and better the next day.",
+      "colors": ["#B5651D", "#F0C05A"],
+      "photo": "a bowl of rich orange-brown chickpea curry with wilted spinach, fresh coriander and a lemon wedge, brown rice alongside",
+      "ing": [
+        ["chickpeas", 480, "Chickpeas (2 cans, drained)"],
+        ["cantom", 400, "Chopped tomatoes (1 can)"],
+        ["onion", 150, "Onion (1 large)"],
+        ["garlic", 10, "Garlic (3 cloves)"],
+        ["ginger", 10],
+        ["chilli", 5, "Green chilli"],
+        ["oil", 15],
+        ["spinach", 100],
+        ["rice", 180, "Brown rice (dry)"],
+        ["herbs", 5, "Coriander"],
+        ["lemon", 10],
+        ["spice", 0, "Garam masala, cumin, turmeric, salt"]
+      ],
+      "steps": [
+        "Cook the rice.",
+        "Fry the chopped onion in the oil for 6 minutes until golden. Add garlic, ginger, chilli and spices and stir 1 minute.",
+        "Add the tomatoes and chickpeas with 150 ml water. Simmer 12 minutes, mashing a few chickpeas to thicken.",
+        "Stir in the spinach, lemon and coriander. Serve over the rice."
+      ],
+      "tip": "Freezes well in portions, rice included."
+    },
+    {
+      "id": "bibimbap",
+      "name": "Beef Bibimbap",
+      "cuisine": "Korean",
+      "meal": "Dinner",
+      "time": 25,
+      "serves": 2,
+      "desc": "Rice, savoury beef, quick veg and a fried egg. Mix it all with gochujang.",
+      "colors": ["#B2232F", "#F2A65A"],
+      "photo": "a stone bowl of rice with neat sections of spinach, carrot matchsticks, bean sprouts and browned beef, a fried egg in the centre, red gochujang sauce and sesame seeds",
+      "ing": [
+        ["beef", 250, "Lean beef mince 5%"],
+        ["whiterice", 140, "Short-grain rice (dry)"],
+        ["spinach", 150],
+        ["carrot", 100],
+        ["sprouts", 100],
+        ["eggs", 100, "Eggs (2)"],
+        ["gochujang", 30, "Gochujang (2 tbsp)"],
+        ["soy", 15],
+        ["sesameoil", 8],
+        ["garlic", 6],
+        ["sesame", 5],
+        ["honey", 5]
+      ],
+      "steps": [
+        "Cook the rice.",
+        "Blanch the spinach for 30 seconds and the bean sprouts for 1 minute. Squeeze dry and season with a few drops of sesame oil and salt.",
+        "Brown the beef with the garlic and soy for 5 minutes. Stir-fry the carrot matchsticks for 2 minutes. Fry the eggs.",
+        "Mix the gochujang, honey, the rest of the sesame oil and a splash of water. Arrange everything on the rice, top with the egg, sauce and sesame, and mix before eating."
+      ]
+    },
+    {
+      "id": "lemongrass-prawn-bun",
+      "name": "Lemongrass Prawn Noodle Salad",
+      "cuisine": "Vietnamese",
+      "meal": "Dinner",
+      "time": 20,
+      "serves": 2,
+      "desc": "Bún: cold noodles, herbs and hot garlicky prawns with a sweet-sour dressing.",
+      "colors": ["#D2566B", "#9FD49A"],
+      "photo": "a bowl of white rice vermicelli with lettuce, cucumber, carrot ribbons and a big handful of mint, topped with charred prawns, crushed peanuts and a small jug of dressing",
+      "ing": [
+        ["shrimp", 300, "Raw prawns"],
+        ["ricenoodles", 120],
+        ["lemongrass", 15, "Lemongrass (1 stalk)"],
+        ["garlic", 6],
+        ["oil", 10],
+        ["lettuce", 100],
+        ["cucumber", 100],
+        ["carrot", 80],
+        ["herbs", 20, "Mint and coriander"],
+        ["fishsauce", 25, "Fish sauce"],
+        ["lime", 30, "Lime juice (1 lime)"],
+        ["honey", 10],
+        ["chilli", 5],
+        ["peanuts", 20]
+      ],
+      "steps": [
+        "Cook the noodles as the pack says, then rinse under cold water and drain well.",
+        "Mix the prawns with the very finely chopped lemongrass, garlic and 1 tsp fish sauce.",
+        "Whisk the rest of the fish sauce with the lime juice, honey, chilli and 3 tbsp water.",
+        "Fry the prawns in the hot oil for 2 minutes per side. Build bowls with lettuce, noodles, cucumber, carrot, herbs and prawns, then add peanuts and dressing."
+      ]
+    },
+    {
+      "id": "cod-tagine",
+      "name": "Moroccan Cod Tagine",
+      "cuisine": "Moroccan",
+      "meal": "Dinner",
+      "time": 30,
+      "serves": 2,
+      "desc": "Flaky cod steamed over spiced potatoes and peppers in a herby chermoula.",
+      "colors": ["#C4682C", "#E9C46A"],
+      "photo": "a terracotta tagine dish with layers of sliced potato, red pepper and tomato, white cod fillets on top coated in green chermoula, green olives and lemon",
+      "ing": [
+        ["cod", 300, "Cod (2 fillets)"],
+        ["potato", 300],
+        ["pepper", 150, "Red pepper (1)"],
+        ["cantom", 200, "Chopped tomatoes (½ can)"],
+        ["onion", 80],
+        ["garlic", 8],
+        ["olives", 30, "Green olives"],
+        ["lemon", 20],
+        ["herbs", 20, "Parsley and coriander"],
+        ["oil", 15],
+        ["spice", 0, "Cumin, paprika, ground ginger, salt"]
+      ],
+      "steps": [
+        "Chermoula: chop the herbs and garlic finely and mix with the lemon, half the oil and the spices. Coat the cod with half of it.",
+        "Slice the potatoes 5 mm thick and fry gently with the onion in the rest of the oil for 5 minutes.",
+        "Add the tomatoes, sliced pepper, the rest of the chermoula and 150 ml water. Cover and simmer 12 minutes.",
+        "Lay the cod and olives on top, cover and cook 8 minutes until the fish flakes."
+      ]
+    },
+    {
+      "id": "shawarma-fattoush",
+      "name": "Chicken Shawarma Fattoush",
+      "cuisine": "Lebanese",
+      "meal": "Lunch",
+      "time": 25,
+      "serves": 2,
+      "desc": "Spiced chicken over a crunchy, lemony salad with toasted pitta shards.",
+      "colors": ["#A8551F", "#B9D77A"],
+      "photo": "a large plate of chopped romaine, cucumber, tomato and herbs with crisp toasted pitta pieces, sliced golden spiced chicken on top, white garlic yogurt and a dusting of red sumac",
+      "ing": [
+        ["chicken", 300, "Chicken breast"],
+        ["yogurt", 100],
+        ["garlic", 6],
+        ["lemon", 30, "Lemon juice (1 lemon)"],
+        ["oil", 15],
+        ["pitta", 60, "Wholemeal pitta (1)"],
+        ["lettuce", 150, "Romaine"],
+        ["cucumber", 150],
+        ["tomatoes", 150],
+        ["onion", 30],
+        ["herbs", 15, "Parsley and mint"],
+        ["spice", 0, "Shawarma spice (cumin, paprika, cinnamon), sumac, salt"]
+      ],
+      "steps": [
+        "Toss the chicken strips with the shawarma spice, 1 tsp oil and half the lemon. Pan-fry 6 to 7 minutes.",
+        "Tear the pitta and toast it in a dry pan until crisp, about 5 minutes.",
+        "Stir half the grated garlic and a pinch of salt into the yogurt.",
+        "Toss the chopped salad with the herbs, remaining oil, lemon and sumac. Top with chicken, pitta and garlic yogurt."
+      ]
+    },
+    {
+      "id": "pork-souvlaki",
+      "name": "Pork Souvlaki Pittas",
+      "cuisine": "Greek",
+      "meal": "Dinner",
+      "time": 25,
+      "serves": 2,
+      "desc": "Lemon-oregano skewers, quick tzatziki and warm pitta. Taverna night at home.",
+      "colors": ["#2F6E9A", "#E9D8A6"],
+      "photo": "two warm pittas filled with charred pork souvlaki pieces, thick tzatziki, tomato and red onion, wooden skewers and a lemon wedge on the board",
+      "ing": [
+        ["pork", 300, "Pork tenderloin"],
+        ["oil", 15],
+        ["lemon", 20],
+        ["garlic", 6],
+        ["pitta", 120, "Wholemeal pittas (2)"],
+        ["yogurt", 100],
+        ["cucumber", 100],
+        ["tomatoes", 150],
+        ["onion", 40],
+        ["spice", 0, "Dried oregano, salt, pepper"]
+      ],
+      "steps": [
+        "Cube the pork, then mix with the oil, lemon, half the garlic, oregano and salt. Leave 10 minutes and thread onto skewers.",
+        "Griddle or grill 10 to 12 minutes, turning, until charred and cooked through.",
+        "Tzatziki: grate the cucumber, squeeze out the water and mix with the yogurt, the rest of the garlic and a pinch of salt.",
+        "Warm the pittas and fill with pork, tzatziki, tomato and onion."
+      ]
+    },
+    {
+      "id": "pasta-e-fagioli",
+      "name": "Pasta e Fagioli",
+      "cuisine": "Italian",
+      "meal": "Dinner",
+      "time": 30,
+      "serves": 4,
+      "veg": true,
+      "vegan": true,
+      "prep": true,
+      "desc": "Nonna's pasta and bean soup. Thick enough to eat with a fork.",
+      "colors": ["#9C4A2F", "#E3C78D"],
+      "photo": "a deep bowl of thick tomato and white bean soup with small tube pasta and dark greens, a drizzle of olive oil and cracked black pepper on top",
+      "ing": [
+        ["pastawhite", 200, "Small pasta (ditalini)"],
+        ["cannellini", 480, "Cannellini beans (2 cans, drained)"],
+        ["cantom", 400, "Chopped tomatoes (1 can)"],
+        ["onion", 100],
+        ["carrot", 100],
+        ["celery", 80],
+        ["garlic", 10],
+        ["oil", 20],
+        ["stock", 1000, "Vegetable stock (1 litre)"],
+        ["spinach", 100, "Kale or spinach"],
+        ["spice", 0, "Rosemary, chilli flakes, salt"]
+      ],
+      "steps": [
+        "Soften the diced onion, carrot and celery in the oil for 6 minutes. Add garlic, rosemary and chilli for 1 minute.",
+        "Add the tomatoes, stock and beans, mashing a ladleful of beans against the pan to thicken. Simmer 5 minutes.",
+        "Add the pasta and cook 9 to 10 minutes, stirring often, until tender. Add water if it gets too thick.",
+        "Stir in the greens until wilted and season."
+      ],
+      "tip": "It thickens in the fridge. Loosen with a splash of water when you reheat."
+    },
+    {
+      "id": "pisto-eggs",
+      "name": "Spanish Pisto with Baked Eggs",
+      "cuisine": "Spanish",
+      "meal": "Lunch",
+      "time": 30,
+      "serves": 2,
+      "veg": true,
+      "desc": "Slow-cooked peppers and courgette, eggs set on top. One pan, bread for dipping.",
+      "colors": ["#B83B2A", "#E8B04B"],
+      "photo": "a round pan of chunky red and green pepper and courgette stew with four baked eggs nestled in it, smoked paprika dusted on top, torn crusty bread beside",
+      "ing": [
+        ["zucchini", 250, "Courgette (1 large)"],
+        ["pepper", 200, "Peppers (1 red, 1 green)"],
+        ["onion", 100],
+        ["cantom", 400, "Chopped tomatoes (1 can)"],
+        ["garlic", 6],
+        ["oil", 20],
+        ["eggs", 200, "Eggs (4)"],
+        ["sourdough", 100, "Crusty bread (2 slices)"],
+        ["spice", 0, "Smoked paprika, cumin, salt"]
+      ],
+      "steps": [
+        "Dice the vegetables into 1 cm pieces.",
+        "Cook the onion and peppers in the oil for 8 minutes, then the courgette for 5 more. Add garlic and spices.",
+        "Add the tomatoes and simmer 10 minutes until thick.",
+        "Make 4 hollows, crack in the eggs, cover and cook 5 to 6 minutes. Serve with the bread."
+      ]
+    },
+    {
+      "id": "kung-pao-chicken",
+      "name": "Kung Pao Chicken",
+      "cuisine": "Chinese",
+      "meal": "Dinner",
+      "time": 20,
+      "serves": 2,
+      "desc": "Sichuan takeaway favourite: tingly, sweet-sour and full of peanuts.",
+      "colors": ["#A8261E", "#F0A04B"],
+      "photo": "a wok of glossy diced chicken with red pepper, spring onion, whole dried red chillies and roasted peanuts, steamed white rice in a bowl beside it",
+      "ing": [
+        ["chicken", 300, "Chicken breast"],
+        ["peanuts", 25],
+        ["pepper", 150, "Red pepper (1)"],
+        ["scallion", 40],
+        ["garlic", 6],
+        ["ginger", 5],
+        ["soy", 25],
+        ["vinegar", 10, "Chinese black or rice vinegar"],
+        ["honey", 10],
+        ["cornflour", 8],
+        ["oil", 15],
+        ["whiterice", 140, "White rice (dry)"],
+        ["spice", 0, "Dried red chillies, Sichuan pepper"]
+      ],
+      "steps": [
+        "Cook the rice. Dice the chicken and toss with 1 tsp soy and half the cornflour.",
+        "Mix the rest of the soy, vinegar, honey and cornflour with 3 tbsp water.",
+        "Heat the oil in a wok until smoking. Fry the chillies and Sichuan pepper for 20 seconds, then the chicken for 4 to 5 minutes.",
+        "Add the pepper, garlic, ginger and spring onion whites for 2 minutes. Pour in the sauce, bubble 1 minute, then toss in the peanuts and green onion."
+      ]
+    },
+    {
+      "id": "lomo-saltado",
+      "name": "Lomo Saltado",
+      "cuisine": "Peruvian",
+      "meal": "Dinner",
+      "time": 20,
+      "serves": 2,
+      "desc": "Peru's beef stir-fry, where Chinese wok cooking meets Andean chilli.",
+      "colors": ["#8E2C1F", "#E7A14A"],
+      "photo": "a plate of seared beef strips tossed with red onion wedges, tomato wedges and yellow chilli in a glossy soy sauce, chopped coriander, a dome of white rice alongside",
+      "ing": [
+        ["sirloin", 300, "Beef sirloin, thin strips"],
+        ["onion", 150, "Red onion (1)"],
+        ["tomatoes", 200, "Tomatoes (2), wedges"],
+        ["chilli", 10, "Ají amarillo or yellow chilli"],
+        ["garlic", 6],
+        ["soy", 30, "Soy sauce (2 tbsp)"],
+        ["vinegar", 15, "Red wine vinegar (1 tbsp)"],
+        ["oil", 15],
+        ["herbs", 10, "Coriander"],
+        ["whiterice", 140, "White rice (dry)"],
+        ["spice", 0, "Cumin, black pepper"]
+      ],
+      "steps": [
+        "Cook the rice. Season the beef with cumin and pepper.",
+        "Get a pan smoking hot. Sear the beef in half the oil in two batches, 1 to 2 minutes each, then lift out.",
+        "Add the rest of the oil, the onion wedges and chilli for 2 minutes, then the garlic and tomatoes for 1 minute so they keep their shape.",
+        "Return the beef, add the soy and vinegar and toss 30 seconds. Finish with coriander and serve with rice."
+      ],
+      "tip": "Hottest pan possible. Crowding the beef steams it instead of searing."
+    },
+    {
+      "id": "jerk-chicken",
+      "name": "Jerk Chicken, Rice & Peas",
+      "cuisine": "Jamaican",
+      "meal": "Dinner",
+      "time": 35,
+      "serves": 4,
+      "prep": true,
+      "desc": "Smoky, fiery chicken with coconut rice and beans and a fresh lime slaw.",
+      "colors": ["#7A2E1B", "#D8A23A"],
+      "photo": "charred jerk chicken thighs with dark caramelised edges, coconut rice studded with red kidney beans, a small heap of lime cabbage slaw and spring onion",
+      "ing": [
+        ["thigh", 600, "Chicken thighs (skinless, boneless)"],
+        ["lime", 30, "Lime juice (1 lime)"],
+        ["honey", 15],
+        ["garlic", 10],
+        ["scallion", 60],
+        ["oil", 15],
+        ["whiterice", 250, "White rice (dry)"],
+        ["kidney", 240, "Kidney beans (1 can, drained)"],
+        ["coconut", 200, "Light coconut milk (½ can)"],
+        ["cabbage", 200],
+        ["spice", 0, "Jerk seasoning (allspice, thyme, scotch bonnet), salt"]
+      ],
+      "steps": [
+        "Mix the jerk seasoning with half the lime, the honey, garlic and oil, and coat the chicken. Overnight is best, 10 minutes still works.",
+        "Rinse the rice and simmer it with the beans, coconut milk, 300 ml water, thyme and half the spring onions, covered, for 15 minutes. Rest 5 minutes.",
+        "Roast the chicken at 220°C for 20 to 25 minutes until charred and cooked through.",
+        "Toss the shredded cabbage with the rest of the lime and spring onion and a pinch of salt."
+      ]
+    },
+    {
+      "id": "misir-wot",
+      "name": "Misir Wot",
+      "cuisine": "Ethiopian",
+      "meal": "Dinner",
+      "time": 30,
+      "serves": 3,
+      "veg": true,
+      "vegan": true,
+      "prep": true,
+      "desc": "Red lentils in a deep, smoky berbere sauce. Cheap, filling and freezable.",
+      "colors": ["#9E2F1E", "#E07A3F"],
+      "photo": "a shallow bowl of thick, brick-red spiced lentil stew with wilted spinach folded in, a rolled flatbread on the side",
+      "ing": [
+        ["lentils", 250, "Red lentils (dry)"],
+        ["onion", 200, "Onions (2)"],
+        ["garlic", 10],
+        ["ginger", 10],
+        ["tomatopaste", 30, "Tomato paste (2 tbsp)"],
+        ["oil", 20],
+        ["spinach", 150],
+        ["spice", 0, "Berbere spice (2 tbsp), salt"]
+      ],
+      "steps": [
+        "Cook the finely chopped onions in a dry pan for 5 minutes, stirring, until soft.",
+        "Add the oil, berbere, garlic, ginger and tomato paste and cook 2 minutes.",
+        "Add the rinsed lentils and 900 ml water. Simmer 20 minutes, stirring often, until thick.",
+        "Stir in the spinach and season."
+      ],
+      "tip": "Serve with injera if you can find it, or any flatbread."
+    },
+    {
+      "id": "gado-gado",
+      "name": "Gado-Gado",
+      "cuisine": "Indonesian",
+      "meal": "Lunch",
+      "time": 25,
+      "serves": 2,
+      "veg": true,
+      "desc": "Warm veg, eggs and crispy tofu under a rich peanut sauce.",
+      "colors": ["#8A6A1F", "#C9DE7A"],
+      "photo": "a platter of halved new potatoes, green beans, cabbage, bean sprouts, crispy tofu cubes, halved boiled eggs and cucumber, generously drizzled with thick peanut sauce",
+      "ing": [
+        ["potato", 250, "New potatoes"],
+        ["greenbeans", 150],
+        ["cabbage", 100],
+        ["sprouts", 100],
+        ["eggs", 100, "Eggs (2)"],
+        ["tofu", 200, "Firm tofu"],
+        ["cucumber", 100],
+        ["pb", 40, "Peanut butter (2½ tbsp)"],
+        ["soy", 15],
+        ["lime", 15],
+        ["honey", 5],
+        ["chilli", 3],
+        ["garlic", 3],
+        ["oil", 5]
+      ],
+      "steps": [
+        "Boil the halved potatoes for 15 minutes, adding the beans for the last 4 minutes and the cabbage for the last 1. Boil the eggs for 8 minutes.",
+        "Fry the tofu cubes in the oil for 8 minutes until golden.",
+        "Whisk the peanut butter, soy, lime, honey, chilli and garlic with hot water until pourable.",
+        "Arrange everything with the sprouts and cucumber and pour over the sauce."
+      ]
+    },
+    {
+      "id": "moules-marinieres",
+      "name": "Moules Marinières",
+      "cuisine": "French",
+      "meal": "Dinner",
+      "time": 20,
+      "serves": 2,
+      "desc": "A pot of mussels in white wine and garlic, with bread for the juices.",
+      "colors": ["#2A3F5F", "#D9C8A0"],
+      "photo": "a black pot of open mussels in a pale buttery white wine broth, lots of chopped parsley, a hunk of sourdough and an empty shell bowl beside it",
+      "ing": [
+        ["mussels", 1000, "Mussels in shell (1 kg)"],
+        ["shallot", 60, "Shallots (2)"],
+        ["garlic", 6],
+        ["wine", 150, "Dry white wine"],
+        ["butter", 15],
+        ["herbs", 15, "Parsley"],
+        ["sourdough", 100, "Sourdough (2 slices)"]
+      ],
+      "steps": [
+        "Scrub and de-beard the mussels. Throw away any open ones that don't close when tapped.",
+        "Melt the butter and soften the shallots and garlic for 2 minutes.",
+        "Add the wine and boil 1 minute. Tip in the mussels, cover and cook 4 to 5 minutes, shaking the pot, until they open. Discard any that stay shut.",
+        "Stir through the parsley and serve with the bread."
+      ]
+    },
+    {
+      "id": "chicken-adobo",
+      "name": "Chicken Adobo",
+      "cuisine": "Filipino",
+      "meal": "Dinner",
+      "time": 35,
+      "serves": 4,
+      "prep": true,
+      "desc": "The Philippines' national dish: chicken braised in vinegar, soy and garlic.",
+      "colors": ["#5A3A1E", "#C89B5A"],
+      "photo": "dark glossy braised chicken thighs in a sticky soy-vinegar sauce with whole garlic cloves and bay leaves, white rice and green beans on the plate",
+      "ing": [
+        ["thigh", 700, "Chicken thighs (skinless, boneless)"],
+        ["soy", 60, "Soy sauce (4 tbsp)"],
+        ["vinegar", 60, "Cane or white vinegar (4 tbsp)"],
+        ["garlic", 20, "Garlic (1 head)"],
+        ["oil", 10],
+        ["whiterice", 250, "White rice (dry)"],
+        ["greenbeans", 300],
+        ["spice", 0, "Bay leaves, black peppercorns"]
+      ],
+      "steps": [
+        "Brown the chicken in the oil for 5 minutes.",
+        "Add the smashed garlic, soy, vinegar, bay leaves, peppercorns and 150 ml water. Leave it unstirred for 2 to 3 minutes so the vinegar mellows.",
+        "Cover and simmer 20 minutes, then uncover and reduce 5 minutes until glossy. Cook the rice meanwhile.",
+        "Steam the green beans for 4 minutes and serve."
+      ],
+      "tip": "Tastes even better on day two, so it's ideal for lunch boxes."
+    },
+    {
+      "id": "borscht",
+      "name": "Ukrainian Borscht",
+      "cuisine": "Ukrainian",
+      "meal": "Lunch",
+      "time": 35,
+      "serves": 4,
+      "veg": true,
+      "prep": true,
+      "desc": "Deep-red beetroot soup with beans and cabbage. Light, cheap and colourful.",
+      "colors": ["#7B1E3A", "#E38AA0"],
+      "photo": "a bowl of vivid ruby-red beetroot soup with shredded cabbage and potato, a spoonful of white yogurt swirled on top and fresh dill",
+      "ing": [
+        ["beetroot", 400, "Raw beetroot (3)"],
+        ["cabbage", 250],
+        ["potato", 250],
+        ["carrot", 100],
+        ["onion", 100],
+        ["kidney", 240, "Kidney beans (1 can, drained)"],
+        ["tomatopaste", 30],
+        ["oil", 15],
+        ["stock", 1200, "Vegetable stock (1.2 litres)"],
+        ["vinegar", 10, "Lemon juice or vinegar (2 tsp)"],
+        ["yogurt", 120, "Greek yogurt to serve"],
+        ["herbs", 10, "Dill"],
+        ["garlic", 6]
+      ],
+      "steps": [
+        "Soften the onion and grated carrot in the oil for 5 minutes. Add the grated beetroot and tomato paste and cook 5 minutes.",
+        "Add the stock and diced potato and simmer 10 minutes.",
+        "Add the shredded cabbage, beans and garlic and simmer 8 minutes more.",
+        "Stir in the vinegar and season. Serve with yogurt and dill."
+      ],
+      "tip": "Wear gloves to grate beetroot, or buy it pre-cooked and skip step 1's 5 minutes."
+    },
+    {
+      "id": "maafe",
+      "name": "Maafe Peanut Stew",
+      "cuisine": "Senegalese",
+      "meal": "Dinner",
+      "time": 30,
+      "serves": 3,
+      "veg": true,
+      "vegan": true,
+      "desc": "West African peanut stew with sweet potato and chickpeas. Rich and comforting.",
+      "colors": ["#A0522D", "#E9B872"],
+      "photo": "a bowl of creamy orange-brown peanut stew with sweet potato chunks, chickpeas and spinach, served over brown rice, crushed peanuts and chilli on top",
+      "ing": [
+        ["sweetpotato", 400],
+        ["chickpeas", 240, "Chickpeas (1 can, drained)"],
+        ["pb", 60, "Peanut butter (4 tbsp)"],
+        ["cantom", 400, "Chopped tomatoes (1 can)"],
+        ["onion", 100],
+        ["garlic", 6],
+        ["ginger", 10],
+        ["oil", 10],
+        ["spinach", 100],
+        ["stock", 300, "Vegetable stock"],
+        ["rice", 150, "Brown rice (dry)"],
+        ["spice", 0, "Cumin, ground coriander, chilli, salt"]
+      ],
+      "steps": [
+        "Cook the rice.",
+        "Soften the onion in the oil for 4 minutes. Add the garlic, ginger and spices for 1 minute.",
+        "Add the cubed sweet potato, tomatoes and stock and simmer 12 minutes.",
+        "Whisk in the peanut butter, add the chickpeas and simmer 5 minutes. Stir in the spinach and serve over rice."
+      ]
+    }
+  ]
+}
