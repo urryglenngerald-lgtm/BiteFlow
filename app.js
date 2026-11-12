@@ -13,7 +13,7 @@ const SUPABASE_URL='https://javjhsivqulsrpywvgso.supabase.co';
 const SUPABASE_KEY='sb_publishable_znspBYAffdx8YWOxsToEcg_kh9fyyZe';
 
 let ING={},RECIPES=[],ALL=[],WEEK=null,NEXT=null;
-const PREVIEW=new URLSearchParams(location.search).has('preview');
+const PREVIEW=new URLSearchParams(location.search).has('preview')||location.hash==='#preview';
 const $=id=>document.getElementById(id);
 const R=n=>Math.round(n);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
