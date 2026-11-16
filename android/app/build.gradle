@@ -7,8 +7,9 @@ android {
     applicationId 'mt.biteflow.app'
     minSdk 24
     targetSdk 34
-    versionCode (project.findProperty('versionCode') ?: '1').toInteger()
-    versionName "1." + (project.findProperty('versionCode') ?: '1')
+    def vc = (project.findProperty('versionCode') ?: '1').toString()
+    versionCode = vc.toInteger()
+    versionName = "1." + vc
   }
   // Practice-app key, kept in the repo so every build can update the last one.
   // Before any Play Store release, make a new private key and keep it out of the repo.
